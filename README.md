@@ -54,8 +54,8 @@ With experience across **backend engineering, automation testing, and system des
 
 ## Connect with me
 
- **Email:** alan.kalbermatter@gmail.com  
- **LinkedIn:** [linkedin.com/in/alankalbermatter](https://linkedin.com/in/alankalbermatter)  
+ **Email:** alan.kalbermatter.dev@gmail.com  
+ **LinkedIn:** [linkedin.com/in/alankalbermatter](https://linkedin.com/in/alan-kalbermatter-81a3b1124/)  
  **Portfolio:** [github.com/AlanKalbermatter](https://github.com/AlanKalbermatter)
 
 ---
