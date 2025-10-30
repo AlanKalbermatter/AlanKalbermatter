@@ -47,7 +47,7 @@ With experience across **backend engineering, automation testing, and system des
 ## Academic Projects (UTN FRRe)
 
 🎓 **Systems Engineering** student at Universidad Tecnológica Nacional (Argentina)  
-- *Matemática Discreta, Ingeniería de Software, Sistemas de Gestión*  
+- *Maths, SWE, System Management*  
 - Projects blending business management, system design, and AI automation  
 
 ---
