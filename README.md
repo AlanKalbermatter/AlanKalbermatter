@@ -20,7 +20,7 @@ I build AI agents that do real engineering work inside large, long-lived codebas
 |---|---|
 | [event-saga-kafka](https://github.com/AlanKalbermatter/event-saga-kafka) | Distributed transactions using Saga choreography on Kafka, with 6 Spring Boot services and Kafka Streams read models |
 | [heavy-algorithm](https://github.com/AlanKalbermatter/heavy-algorithm) | Top-K over unbounded streams: min-heap vs TreeMap trade-offs, measured with benchmarks |
-| [timetotrack](https://github.com/AlanKalbermatter/timetotrack) | Reactive Vert.x backend (Dagger DI, OpenAPI-first) with a React + TypeScript frontend |
+| [timetotrack](https://github.com/AlanKalbermatter/timetotrack) | Vert.x modular monolith behind a JWT-validating gateway, DB-enforced invariants, Testcontainers-tested, one-command Docker setup |
 | [shootage](https://github.com/AlanKalbermatter/shootage) | Genetic algorithm that evolves targets to dodge the player: selection, crossover, mutation and fitness shaping |
 | [utn-frre-organizer](https://github.com/AlanKalbermatter/utn-frre-organizer) | Rules engine checked against official regulations, with 53 tests and CI, [live on GitHub Pages](https://alankalbermatter.github.io/utn-frre-organizer/) |
 | [portfolio-service](https://github.com/AlanKalbermatter/portfolio-service) | Spring Boot 3 REST API with PostgreSQL/H2 profiles, containerized with Docker Compose |
