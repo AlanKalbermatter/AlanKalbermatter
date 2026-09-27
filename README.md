@@ -1,64 +1,39 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q3dHR2bDNzaHRpOGo4OWd0bWI3MW9sbmwwenl4YXk0dGRncmJ4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="320" alt="Hello there!">
-</div>
+### Alan Kalbermatter — Senior AI Software Engineer
 
-💻 **Software Engineer | SDET | System Architect | AI Builder**
+I build AI agents that do real engineering work inside large, long-lived codebases, along with the backend systems they run against.
+6+ years in backend and distributed systems (Java/Spring, event-driven architectures). Lately my focus has been on making LLM agents reliable on legacy code, where context is scarce and a mistake is expensive.
 
-I design and build scalable systems that bridge business logic, automation, and AI.  
-With experience across **backend engineering, automation testing, and system design**, I focus on crafting high-performance, maintainable solutions.
+#### Selected impact
 
----
+- **AI development agent for a legacy platform.** Designed and built an agent that analyzes the codebase, implements changes and manages its own long-term memory, on a custom architecture made for a large legacy system. It **raised team output 2–4× over two quarters**.
+- **MCP tooling for the engineering team.** Built a suite of six MCP servers that connect AI coding agents to internal systems and team workflows, so agents act on real data instead of guesses.
 
-## What I’m working on
+#### What I focus on
 
--  **AutoTestGen** — a framework that automatically generates white-box, black-box, and integration tests as code evolves.
--  **AutoAPI** — a declarative system for building APIs from configuration files (YAML/JSON), including validations, logic, and versioning.
--  **Stockiar** — a SaaS platform for SMEs to manage stock, sales, and supplier operations with document-based product ingestion (PDF & image parsing).
--  **Container ERP** — a management system for event-equipment companies, including dashboards and Orderry ERP integration.
+- **Context engineering:** deciding what an agent should read, what it should skip, and what it should remember between sessions.
+- **Validation boundaries:** matching each agent's autonomy to how strongly its output can be verified.
+- **Clean integration:** evolving legacy systems through small, reviewable changes instead of large rewrites.
 
----
+#### Selected work
 
-##  Tech Stack
+| Project | What it shows |
+|---|---|
+| [event-saga-kafka](https://github.com/AlanKalbermatter/event-saga-kafka) | Distributed transactions using Saga choreography on Kafka, with 6 Spring Boot services and Kafka Streams read models |
+| [heavy-algorithm](https://github.com/AlanKalbermatter/heavy-algorithm) | Top-K over unbounded streams: min-heap vs TreeMap trade-offs, measured with benchmarks |
+| [timetotrack](https://github.com/AlanKalbermatter/timetotrack) | Reactive Vert.x backend (Dagger DI, OpenAPI-first) with a React + TypeScript frontend |
+| [shootage](https://github.com/AlanKalbermatter/shootage) | Genetic algorithm that evolves targets to dodge the player: selection, crossover, mutation and fitness shaping |
+| [utn-frre-organizer](https://github.com/AlanKalbermatter/utn-frre-organizer) | Rules engine checked against official regulations, with 53 tests and CI, [live on GitHub Pages](https://alankalbermatter.github.io/utn-frre-organizer/) |
+| [portfolio-service](https://github.com/AlanKalbermatter/portfolio-service) | Spring Boot 3 REST API with PostgreSQL/H2 profiles, containerized with Docker Compose |
 
-**Languages:**  
-`Java` · `Python` · `TypeScript` · `C++` · `Kotlin`
+Most of my production work lives in private repositories.
 
-**Frameworks & Tools:**  
-`Spring Boot` · `Vert.x` · `FastAPI` · `React` · `Next.js` · `Docker` · `Kafka` · `RabbitMQ`
+#### Stack
 
-**Data & Infra:**  
-`PostgreSQL` · `MySQL` · `DBeaver` · `Eureka` · `Railway` · `AWS` · `MongoDB`
+**Languages:** Java · TypeScript · Python  
+**Backend & data:** Spring Boot · Vert.x · Kafka · PostgreSQL · MongoDB  
+**AI engineering:** LLM agents · MCP · context engineering · agent memory  
+**Delivery:** Docker · AWS · GitHub Actions · Jenkins
 
-**Testing & CI/CD:**  
-`JUnit` · `Mockito` · `Cypress` · `Jenkins` · `GitHub Actions`
+#### Contact
 
----
-
-## Focus Areas
-
-- Automated testing frameworks & DevOps pipelines  
-- AI-powered document processing (OCR, NLP)  
-- Microservices architecture & API orchestration  
-- Real-time analytics & dashboards  
-- Competitive SaaS & mobile systems  
-
----
-
-## Academic Projects (UTN FRRe)
-
-🎓 **Systems Engineering** student at Universidad Tecnológica Nacional (Argentina)  
-- *Maths, SWE, System Management*  
-- Projects blending business management, system design, and AI automation  
-
----
-
-## Connect with me
-
- **Email:** alan.kalbermatter.dev@gmail.com  
- **LinkedIn:** [linkedin.com/in/alankalbermatter](https://linkedin.com/in/alan-kalbermatter-81a3b1124/)  
- **Portfolio:** [github.com/AlanKalbermatter](https://github.com/AlanKalbermatter)
-
----
-
-> *“I believe in automation as leverage — every script, API, or model should multiply impact.”*  
-> — Alan Kalbermatter
+[LinkedIn](https://www.linkedin.com/in/alan-kalbermatter-81a3b1124/) · alan.kalbermatter.dev@gmail.com
